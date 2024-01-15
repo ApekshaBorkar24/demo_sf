@@ -1,0 +1,7 @@
+public class DemoClass{
+    public static void DemoMethod(){
+        System.debug('Hello World');
+    }
+}
+
+# Firt progrm of SF
